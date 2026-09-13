@@ -36,16 +36,13 @@ The solver uses **recursive backtracking**:
 3. For each digit, check the row, column, and 3×3 box for conflicts.
 4. If a digit is valid, place it and recurse into the next empty cell.
 5. If a later cell has no valid digit, backtrack — undo the last placement and try the next option.
-6. Repeat until the board is completely filled (base case), or every option is exhausted.
-
+6. Repeat until the board is completely filled.
 No external solving libraries — just plain recursion.
 
 ## 📦 Requirements
 
 - Python 3.8+
 - Tkinter (included with most standard Python installations)
-
-No third-party packages are required.
 
 
 ##  Project structure
