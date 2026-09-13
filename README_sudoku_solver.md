@@ -1,21 +1,28 @@
-# 🌸 Cute Sudoku Solver
+Sudoku Solver🎀
 
-A pastel-themed Sudoku solver desktop app, built with **Python** and **Tkinter**, powered by a **recursive backtracking algorithm**.
+A pastel-themed Sudoku solver desktop app, built with *Python** and *Tkinter**, using **backtracking algorithm** and **recursive method.**
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-ff69b4)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
-## ✨ Features
+##  Features🧜‍♀️
 
 - Solves any valid 9×9 Sudoku puzzle instantly
 - Pastel checkerboard grid styling — alternating pink and blue 3×3 boxes
-- Given numbers and solved numbers shown in different colors
 - One-click sample puzzle loader
 - Clear board button
 - Friendly status messages after each action
 
-## 🧠 How it works
+  ## Screenshots
+  <img width="200" height="200" alt="Screenshot 2026-09-13 164246" src="https://github.com/user-attachments/assets/19fcbea9-4fdb-4e72-9af4-5cfbfa2c936b" />
+  The main structure
+
+<img width="200" height="200" alt="Screenshot 2026-09-13 164324" src="https://github.com/user-attachments/assets/9fb238d1-a714-463d-adda-f79ce0e3b229" />
+Sample Puzzle loaded!
+
+<img width="200" height="200" alt="Screenshot 2026-09-13 164420" src="https://github.com/user-attachments/assets/1d149478-1e80-4b54-881c-debdcd0d9485" />
+Sudoku Solved!!
+
+  
+
+##  How it works 🤺
 
 The solver uses **recursive backtracking**:
 
@@ -35,22 +42,8 @@ No external solving libraries — just plain recursion.
 
 No third-party packages are required.
 
-## ▶️ Usage
 
-Clone the repo and run the script:
-
-```bash
-git clone https://github.com/<your-username>/cute-sudoku-solver.git
-cd cute-sudoku-solver
-python sudoku_solver.py
-```
-
-Then:
-1. Type numbers into the grid (or click **Sample** to load a demo puzzle).
-2. Click **Solve** to instantly fill in the rest.
-3. Click **Clear** to start over.
-
-## 🗂️ Project structure
+##  Project structure
 
 ```
 cute-sudoku-solver/
@@ -60,21 +53,14 @@ cute-sudoku-solver/
 └── .gitignore
 ```
 
-## 📸 Screenshots
 
-_Add a screenshot of the app here once you take one — drag an image into this section on GitHub, e.g.:_
 
-```markdown
-![App screenshot](screenshots/app.png)
-```
+##  Possible future improvements
 
-## 🛠️ Possible future improvements
-
-- Random puzzle generator (instead of a single fixed sample)
 - Step-by-step animated solving mode
 - Difficulty levels
 - Save/load puzzles from file
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
