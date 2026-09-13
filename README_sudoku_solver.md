@@ -12,13 +12,13 @@ A pastel-themed Sudoku solver desktop app, built with *Python** and *Tkinter**, 
 
   ## Screenshots
    <img width="400" height="200" alt="Screenshot 2026-09-13 164246" src="https://github.com/user-attachments/assets/19fcbea9-4fdb-4e72-9af4-5cfbfa2c936b" />
-<figcaption> THE MAIN STRUCTURE </figcaption>  
+<em> THE MAIN STRUCTURE </em>  
 
 <img width="400" height="200" alt="Screenshot 2026-09-13 164324" src="https://github.com/user-attachments/assets/9fb238d1-a714-463d-adda-f79ce0e3b229" />
-<figcaption> SAMPLE PUZZLE LOADED </figcaption>
+<em> SAMPLE PUZZLE LOADED </em>
 
 <img width="400" height="200" alt="Screenshot 2026-09-13 164420" src="https://github.com/user-attachments/assets/1d149478-1e80-4b54-881c-debdcd0d9485" />
-<figcaption> SUDOKU SOLVED!! </figcaption>
+<em> SUDOKU SOLVED!! </em>
 
   
 
